@@ -15,4 +15,4 @@ requirements:
 
 test:
   imports:
-    - condapackage
+    - setuptools
