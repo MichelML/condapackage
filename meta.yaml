@@ -15,7 +15,4 @@ requirements:
 
 test:
   imports:
-    - click
-
-about:
-  home: https://github.com/pallets/click
+    - condapackage
