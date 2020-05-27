@@ -1,6 +1,9 @@
 package:
-  name: click
-  version: 7.8
+  name: condapackage
+  version: 7.7
+
+source:
+  url: https://github.com/MichelML/condapackage.git
 
 requirements:
   build:
