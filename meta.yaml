@@ -3,7 +3,7 @@ package:
   version: 7.7
 
 source:
-  url: https://github.com/MichelML/condapackage.git
+  git_url: https://github.com/MichelML/condapackage.git
 
 requirements:
   build:
